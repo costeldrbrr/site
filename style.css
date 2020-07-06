@@ -1,0 +1,30 @@
+        .box1
+         {
+            background-color: yellow;
+            width: 600px;
+            height: 400px   ;
+        }
+
+        .box2 {
+            background-color: aqua;
+            width: 600px;
+            height: 200px;
+        }
+        .box3 {
+            background-color: cadetblue; 
+            width: 100px;
+            height: 200px;  
+
+        }
+
+        .box4 {
+            background-color: cadetblue; 
+            width: 100px;
+            height: 200px;  
+
+        }
+
+        .highlight {
+            color:blue ;
+            font-size: 30px;
+        }
